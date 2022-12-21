@@ -128,7 +128,7 @@
 }
 
  .u-section-1-4 {
-  background-image: url("images/tailored_for_pets_9800_st_006.png");
+  background-image: url("images/tailored_for_pets_9816_st_022.png");
   background-position: 50% 50%;
 }
 
@@ -155,7 +155,7 @@
 }
 
  .u-section-1-5 {
-  background-image: url("images/tailored_for_pets_9816_st_022.png");
+  background-image: url("images/tailored_for_pets_9262_st_01.png");
   background-position: 50% 50%;
 }
 
@@ -182,7 +182,7 @@
 }
 
  .u-section-1-6 {
-  background-image: url("images/tailored_for_pets_9262_st_01.png");
+  background-image: url("images/tailored_for_pets_134_st_21596.png");
   background-position: 50% 50%;
 }
 
@@ -209,7 +209,7 @@
 }
 
  .u-section-1-7 {
-  background-image: url("images/tailored_for_pets_134_st_21596.png");
+  background-image: url("images/tailored_for_pets_134_st_23002.png");
   background-position: 50% 50%;
 }
 
@@ -231,33 +231,6 @@
 
 @media (max-width: 767px) {
   .u-section-1-7 .u-sheet-1 {
-    min-height: 310px;
-  }
-}
-
- .u-section-1-8 {
-  background-image: url("images/tailored_for_pets_134_st_23002.png");
-  background-position: 50% 50%;
-}
-
-.u-section-1-8 .u-sheet-1 {
-  min-height: 650px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1-8 .u-sheet-1 {
-    min-height: 500px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1-8 .u-sheet-1 {
-    min-height: 375px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1-8 .u-sheet-1 {
     min-height: 310px;
   }
 }.u-section-2 .u-sheet-1 {
@@ -623,7 +596,7 @@
 }
 
 .u-section-3 .u-container-layout-8 {
-  padding: 30px 50px 0;
+  padding: 30px 0 0;
 }
 
 .u-section-3 .u-image-8 {
@@ -642,7 +615,7 @@
   font-weight: 700;
   letter-spacing: 1px;
   background-image: none;
-  margin: 15px auto 0;
+  margin: 190px -370px -125px auto;
 }
 
 .u-section-3 .u-carousel-item-9 {
@@ -673,6 +646,62 @@
   margin: 15px auto 0;
 }
 
+.u-section-3 .u-carousel-item-10 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-container-layout-10 {
+  padding: 30px 50px 0;
+}
+
+.u-section-3 .u-image-10 {
+  height: 520px;
+  width: 520px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-11 {
+  font-size: 1.5rem;
+  margin: 10px auto 0;
+}
+
+.u-section-3 .u-btn-10 {
+  border-style: none;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 15px auto 0;
+}
+
+.u-section-3 .u-carousel-item-11 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-container-layout-11 {
+  padding: 30px 50px 0;
+}
+
+.u-section-3 .u-image-11 {
+  height: 520px;
+  width: 520px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-12 {
+  font-size: 1.5rem;
+  margin: 10px auto 0;
+}
+
+.u-section-3 .u-btn-11 {
+  border-style: none;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 15px auto 0;
+}
+
 .u-section-3 .u-carousel-control-1 {
   width: 50px;
   height: 50px;
@@ -694,6 +723,10 @@
 
   .u-section-3 .u-btn-3 {
     border-style: none;
+  }
+
+  .u-section-3 .u-btn-8 {
+    margin-right: 0;
   }
 }
 
@@ -742,12 +775,17 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-container-layout-8 {
+  .u-section-3 .u-container-layout-9 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .u-section-3 .u-container-layout-9 {
+  .u-section-3 .u-container-layout-10 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-container-layout-11 {
     padding-left: 30px;
     padding-right: 30px;
   }
@@ -801,12 +839,17 @@
     padding-right: 10px;
   }
 
-  .u-section-3 .u-container-layout-8 {
+  .u-section-3 .u-container-layout-9 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-3 .u-container-layout-9 {
+  .u-section-3 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-11 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -869,11 +912,21 @@
   }
 
   .u-section-3 .u-image-8 {
+    height: 340px;
+    width: 340px;
+  }
+
+  .u-section-3 .u-image-9 {
     height: 320px;
     width: 320px;
   }
 
-  .u-section-3 .u-image-9 {
+  .u-section-3 .u-image-10 {
+    height: 320px;
+    width: 320px;
+  }
+
+  .u-section-3 .u-image-11 {
     height: 320px;
     width: 320px;
   }
