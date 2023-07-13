@@ -27,10 +27,20 @@
   padding: 30px 50px;
 }
 
+.u-section-1 .u-rotation-parent-1 {
+  width: 430px;
+  height: 430px;
+  margin: 0 auto;
+}
+
 .u-section-1 .u-image-2 {
   height: 430px;
   width: 430px;
-  margin: 0 auto;
+  transform: rotate(270deg);
+  transform-origin: center center 0px;
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
 .u-section-1 .u-carousel-control-1 {
@@ -141,8 +151,7 @@
   }
 
   .u-section-1 .u-image-2 {
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0;
   }
 
   .u-section-1 .u-text-1 {
@@ -243,6 +252,11 @@
   .u-section-1 .u-image-1 {
     height: 320px;
     width: 320px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 320px;
+    height: 320px;
   }
 
   .u-section-1 .u-image-2 {
